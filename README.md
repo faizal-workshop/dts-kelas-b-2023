@@ -34,6 +34,6 @@ Berikut adalah daftar anggota yang tergabung dalam kelas ini.
 * [@y-majid16](https://github.com/y-majid16)
 * [@zalfar](https://github.com/zalfar)
 
-## Some of Our Activities
+## Beberapa Kegiatan Kita
 ![Class Participants](/participants.png)
 ![Live Coding Session](live-coding.png)
