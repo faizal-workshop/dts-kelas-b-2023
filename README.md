@@ -1,5 +1,7 @@
-# DTS FGA : Introduction to Frontend Development - Kelas B 2023
-Berikut adalah orang-orang yang tergabung dalam kelas ini
+# Introduction to Frontend Development Kelas B 2023
+**Fresh Graduate Academy, Digital Talent Scholarship oleh Kemkominfo RI**
+
+Berikut adalah daftar anggota yang tergabung dalam kelas ini.
 
 ## Mentor
 * [@moefc32](https://github.com/moefc32)
