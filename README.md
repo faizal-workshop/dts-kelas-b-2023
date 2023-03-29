@@ -33,3 +33,7 @@ Berikut adalah daftar anggota yang tergabung dalam kelas ini.
 * [@wildanhabibie](https://github.com/wildanhabibie)
 * [@y-majid16](https://github.com/y-majid16)
 * [@zalfar](https://github.com/zalfar)
+
+## Some of Our Activities
+![Class Participants](/participants.png)
+![Live Coding Session](live-coding.png)
