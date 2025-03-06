@@ -1,5 +1,5 @@
 # Digital Talent Scholarship Kelas B 2023
-Berikut adalah daftar anggota yang tergabung dalam kelas B, Introduction to Frontend Development by Fres Graduate Academy DTS Kemkominfo RI tahun 2023
+Berikut adalah daftar anggota yang tergabung dalam kelas B, Introduction to Frontend Development by Fresh Graduate Academy DTS Kemkominfo RI tahun 2023
 
 ## Mentor
 <a href="https://github.com/moefc32"><img src="https://img.shields.io/badge/@moefc32-black?logo=github&style=flat-square" height="24" /></a>
